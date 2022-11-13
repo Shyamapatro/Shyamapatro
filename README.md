@@ -10,6 +10,7 @@
 - 💬 Ask me about **Nodejs**
 
 - 📫 How to reach me **shyama.patro@gmail.com**
+- In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
