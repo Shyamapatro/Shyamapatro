@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full stack Intern at Applify**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **ReactJs and NextJs**
 
 - 👯 I’m looking to collaborate on **Open Source projects.**
 
