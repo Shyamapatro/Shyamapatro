@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyama</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **full stack Intern at Applify**
+- 🔭 I’m currently working on **Backend Engineer at Clapingo**
 
 - 🌱 I’m currently learning **ReactJs and NextJs**
 
